@@ -1,0 +1,15 @@
+/* Change the header color */
+.nav {
+    background-color: #f0f8ff;
+  }
+  
+  /* Customize post titles */
+  .post-title {
+    font-size: 2.2rem;
+    color: #2e5090;
+  }
+  
+  /* Adjust content width */
+  .main {
+    max-width: 860px;
+  }
