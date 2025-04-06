@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on ZeroDayGost</title>
-    <link>http://localhost:1313/my-blog/tags/</link>
+    <link>https://Sarvottam999.github.io/my-blog/tags/</link>
     <description>Recent content in Tags on ZeroDayGost</description>
     <image>
       <title>ZeroDayGost</title>
-      <url>http://localhost:1313/my-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/my-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://Sarvottam999.github.io/my-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://Sarvottam999.github.io/my-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/my-blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Sarvottam999.github.io/my-blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Airodump-Ng</title>
-      <link>http://localhost:1313/my-blog/tags/airodump-ng/</link>
+      <link>https://Sarvottam999.github.io/my-blog/tags/airodump-ng/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/my-blog/tags/airodump-ng/</guid>
+      <guid>https://Sarvottam999.github.io/my-blog/tags/airodump-ng/</guid>
       <description></description>
     </item>
     <item>
       <title>Handshake</title>
-      <link>http://localhost:1313/my-blog/tags/handshake/</link>
+      <link>https://Sarvottam999.github.io/my-blog/tags/handshake/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/my-blog/tags/handshake/</guid>
+      <guid>https://Sarvottam999.github.io/my-blog/tags/handshake/</guid>
       <description></description>
     </item>
     <item>
       <title>Penetration Testing</title>
-      <link>http://localhost:1313/my-blog/tags/penetration-testing/</link>
+      <link>https://Sarvottam999.github.io/my-blog/tags/penetration-testing/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/my-blog/tags/penetration-testing/</guid>
+      <guid>https://Sarvottam999.github.io/my-blog/tags/penetration-testing/</guid>
       <description></description>
     </item>
     <item>
       <title>Wi-Fi</title>
-      <link>http://localhost:1313/my-blog/tags/wi-fi/</link>
+      <link>https://Sarvottam999.github.io/my-blog/tags/wi-fi/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/my-blog/tags/wi-fi/</guid>
+      <guid>https://Sarvottam999.github.io/my-blog/tags/wi-fi/</guid>
       <description></description>
     </item>
   </channel>
