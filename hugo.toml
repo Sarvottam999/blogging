@@ -1,6 +1,6 @@
 baseURL = 'https://Sarvottam999.github.io/my-blog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'ZeroDayGost'
 theme = 'PaperMod'
 
 
@@ -42,11 +42,11 @@ buildExpired = false
   tocopen = false
 
   [params.assets]
-    favicon = "<link / abs url>"
-    favicon16x16 = "<link / abs url>"
-    favicon32x32 = "<link / abs url>"
-    apple_touch_icon = "<link / abs url>"
-    safari_pinned_tab = "<link / abs url>"
+    favicon = "logo.png"
+    favicon16x16 = "logo.png"
+    favicon32x32 = "logo.png>"
+    apple_touch_icon = "logo.png"
+    safari_pinned_tab = "logo.png"
 
 [params.label]
   text = "ZeroDayGost" # Optional: remove text next to logo
