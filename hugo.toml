@@ -74,7 +74,7 @@ buildExpired = false
   [params.homeInfoParams]
   Title = "Cybersecurity & Hacking Blog"
   Content = """
-Welcome to my blog where I share everything about **ethical hacking**, **network security**, and **penetration testing**.
+A dedicated space for sharing in-depth insights, hands-on techniques, and real-world experiences in ethical hacking, network security, and penetration testing. Whether you're just getting started or looking to advance your skills, this blog offers valuable knowledge to support your cybersecurity journey.
  
 """
 
