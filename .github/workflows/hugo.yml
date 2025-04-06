@@ -26,6 +26,7 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
+          extended: true  # Add this line to use Hugo Extended
       - name: Build
         run: hugo --minify
       - name: Upload artifact
