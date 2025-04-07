@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>VirtualBox on ZeroDayGost</title>
+    <link>http://localhost:1313/my-blog/tags/virtualbox/</link>
+    <description>Recent content in VirtualBox on ZeroDayGost</description>
+    <image>
+      <title>ZeroDayGost</title>
+      <url>http://localhost:1313/my-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/my-blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/my-blog/tags/virtualbox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beginner&#39;s Guide: Setting Up Kali Linux for Cybersecurity Practice</title>
+      <link>http://localhost:1313/my-blog/posts/virtual-box-setup/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-blog/posts/virtual-box-setup/</guid>
+      <description>&lt;p&gt;Cybersecurity is a fascinating field, and diving into hands-on practice is the best way to learn. One of the most powerful tools for ethical hackers is &lt;strong&gt;Kali Linux&lt;/strong&gt; — a specialized Linux distribution packed with tools for penetration testing and digital forensics.&lt;/p&gt;
+&lt;p&gt;In this blog post, I&amp;rsquo;ll walk you through the steps to get started with Kali Linux using VirtualBox or VMware, and explore some essential tools and commands every beginner should know.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

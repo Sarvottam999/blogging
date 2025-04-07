@@ -11,8 +11,22 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/my-blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ethical Hacking</title>
+      <link>http://localhost:1313/my-blog/categories/ethical-hacking/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-blog/categories/ethical-hacking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Guides</title>
+      <link>http://localhost:1313/my-blog/categories/guides/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-blog/categories/guides/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Wireless Hacking</title>
       <link>http://localhost:1313/my-blog/categories/wireless-hacking/</link>
