@@ -21,5 +21,20 @@
       <description>&lt;p&gt;Cybersecurity is a fascinating field, and diving into hands-on practice is the best way to learn. One of the most powerful tools for ethical hackers is &lt;strong&gt;Kali Linux&lt;/strong&gt; — a specialized Linux distribution packed with tools for penetration testing and digital forensics.&lt;/p&gt;
 &lt;p&gt;In this blog post, I&amp;rsquo;ll walk you through the steps to get started with Kali Linux using VirtualBox or VMware, and explore some essential tools and commands every beginner should know.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Beginner&#39;s Guide: WiFi Hacking with Kali Linux</title>
+      <link>http://localhost:1313/my-blog/posts/wifi-hacking-with-kali-linux/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-blog/posts/wifi-hacking-with-kali-linux/</guid>
+      <description>&lt;h3 id=&#34;5-use&#34;&gt;5.) &lt;strong&gt;Use &lt;code&gt;ifconfig&lt;/code&gt; or &lt;code&gt;ip&lt;/code&gt; in Kali Linux to View Network Details&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Before jumping into any wireless hacking activity, it&amp;rsquo;s important to know your current network interface and IP configuration.&lt;/p&gt;
+&lt;p&gt;You can use the following command:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ifconfig
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This shows all available network interfaces along with their IP addresses, MAC addresses, and other important network information.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/my-blog/posts/wifi-hacking-with-kali-linux/20250328150501.png&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;6-wifi-hacking-educational-purposes-only-&#34;&gt;6.) &lt;strong&gt;WiFi Hacking&lt;/strong&gt; (Educational Purposes Only ⚠️)&lt;/h3&gt;
+&lt;p&gt;Let’s now walk through the &lt;strong&gt;step-by-step process&lt;/strong&gt; of capturing a WPA2 handshake and attempting to crack a Wi-Fi password. This tutorial is strictly for ethical hacking practice in &lt;strong&gt;authorized environments only&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
